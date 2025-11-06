@@ -1,4 +1,4 @@
-# Final-Year-Project
-This is my Final Year Project
+# Food-Spoiling-Detection-Using-IoT
+This is my Academic Project
 <br>
 Author-Shobha {Project}
